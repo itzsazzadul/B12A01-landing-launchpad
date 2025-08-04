@@ -1,0 +1,51 @@
+.inter-normal> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.raleway-normal> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* head style */
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 150px;
+}
+.web-name{
+    color: #4E47FF; 
+    font-size: 34px;
+}
+
+.btn-primary{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 10px;
+}
+
+.headline{
+    text-align: center;
+    padding: 0 0 152px 0px;
+}
+
+.title{
+    color: #252432;
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 309px;
+}
+
