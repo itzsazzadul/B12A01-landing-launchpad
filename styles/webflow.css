@@ -238,7 +238,7 @@ footer{
 .list{
     display: flex;
     color: rgba(137, 135, 161, 1);
-    gap: 48px;
+    gap: 15px;
     justify-content: center;
 }
 
